@@ -1,0 +1,18 @@
+.PanelInfo-Box{
+    width: 98.4%;
+    min-height: 70px;
+    text-align: left;
+    float: left;
+    background: yellow;
+}
+
+.PanelInfo-Title{
+    font-size: 16px;
+    margin-bottom: 10px
+}
+
+.PanelInfo-Date{
+    font-size: 14px;
+    color: #CCC;
+    margin-bottom: 10px
+}

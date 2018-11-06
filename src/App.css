@@ -1,0 +1,78 @@
+.App {
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  float: none;
+  /* width: 980px; */
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.App-header {
+  width: 100%;
+  height: 50px;
+  float: left;
+}
+
+.Menu{
+  height: 100%;
+}
+
+.MenuLogo{
+  width: 10%;
+  height: 100%;
+  background: yellow;
+  float: left;
+}
+
+.MenuLeft{
+  width: 80%;
+  height: 100%;
+  float: left;
+  background: red;
+  text-align: left
+}
+
+.MenuRight{
+  width: 10%;
+  height: 100%;
+  float: right;
+  background: green;
+}
+
+ul li{
+  float: left;
+  margin-right: 30px;
+  list-style: none;
+}
+
+.Header{
+  width: 100%;
+  min-height: 250px;
+  float: left;
+  background: violet;
+  margin-bottom: 10px;
+  text-align: left
+}
+
+.Body{
+  width: 100%;
+  min-height: 250px;
+  float: left;
+  background: violet;
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.Footer{
+  width: 100%;
+  min-height: 50px;
+  float: left;
+  background: red;
+  border-top: 1px solid black;
+}
+
+.ContentFooter{
+  text-align: center;
+  margin: 40px 0;
+  font-size: 16px
+}

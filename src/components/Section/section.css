@@ -1,0 +1,40 @@
+.Section-Box{
+    width: 98.5%;
+    min-height: 100px;
+    float: left;
+    margin: 10px;
+    background: yellowgreen
+}
+
+.Section-TitleName{
+    width: 85%;
+    height: 20px;
+    text-align: left;
+    float: left;
+    padding: 10px;
+    background: yellow;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 5px
+}
+
+.Section-UrlName{
+    width: 10%;
+    height: 20px;
+    text-align: right;
+    float: right;
+    padding: 10px;
+    background: yellow;
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 5px
+}
+
+.Section-Description{
+    width: 98.4%;
+    min-height: 70px;
+    text-align: left;
+    float: left;
+    padding: 10px;
+    background: yellow;
+}

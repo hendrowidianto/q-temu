@@ -1,0 +1,20 @@
+.Panel-Box{
+    width: 30%;
+    min-height: 70px;
+    text-align: left;
+    float: left;
+    padding: 10px;
+    margin-right: 1.2%;
+    background: burlywood;
+    margin-bottom: 5px;
+}
+
+.Panel-Date{
+    border-bottom: 1px solid black;
+    margin-bottom: 20px;
+    min-height: 30px;
+}
+
+.Panel-TitleName, .Panel-Description{
+    margin-bottom: 20px;
+}

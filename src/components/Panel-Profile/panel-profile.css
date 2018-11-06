@@ -1,0 +1,60 @@
+.PanelProfile-Box{
+    width: 98.5%;
+    min-height: 100px;
+    float: left;
+    margin: 10px;
+    background: yellowgreen
+}
+
+.PanelProfile-Image{
+    width: 25%;
+    height: 245px;
+    background: black;
+    float: left;
+    margin-right: 2%
+}
+
+.PanelProfile-Info{
+    width: 73%;
+    height: 100%;
+    background: brown;
+    float: left;
+}
+
+.PanelProfile-InfoTitle{
+    width: 97.8%;
+    height: 20px;
+    text-align: left;
+    float: left;
+    padding: 10px;
+    background: yellow;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 5px
+}
+
+.PanelProfile-ListName{
+    width: 97.8%;
+    min-height: 20px;
+    text-align: left;
+    float: left;
+    padding: 10px;
+    background: yellow;
+    margin-bottom: 5px
+}
+
+.PanelProfile-ListName-Label{
+    width: 20%;
+    float: left;
+    margin-right: 5px;
+    background: greenyellow;
+    font-size: 14px;
+}
+
+.PanelProfile-ListName-Value{
+    width: 79%;
+    float: left;
+    background: greenyellow;
+    font-size: 14px;
+}
+  

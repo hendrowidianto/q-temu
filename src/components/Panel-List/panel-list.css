@@ -1,0 +1,31 @@
+.PanelList-Box{
+    width: 98.4%;
+    min-height: 70px;
+    text-align: left;
+    float: left;
+    padding: 10px;
+    margin-right: 1.2%;
+    background: burlywood;
+    margin-bottom: 10px;
+    margin-top: 10px
+}
+
+.PanelList-Description-TitleName, .PanelList-Description-Name, .PanelList-Description-Desc{
+    font-size: 16px;
+    margin-bottom: 10px
+}
+
+.PanelList-Description-Date{
+    font-size: 14px;
+    color: #CCC;
+    margin-bottom: 10px
+}
+
+.PanelList-Image{
+    width: 100px;
+    min-height: 100px;
+    float: left;
+    background: black;
+    border-radius: 100px;
+    margin-right: 20px
+}

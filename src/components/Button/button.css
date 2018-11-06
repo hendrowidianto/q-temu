@@ -1,0 +1,20 @@
+button{
+    width: 20%;
+    height: 40px;
+    background: blueviolet;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  .BigSize-Primary-Button{
+    font-size: 16px;
+  }
+   
+  .SmallSize-Primary-Button{
+    font-size: 14px;
+  }
+  
+  button:hover{
+    background: red;
+  }  

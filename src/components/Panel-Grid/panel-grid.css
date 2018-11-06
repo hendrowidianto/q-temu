@@ -1,0 +1,19 @@
+.PanelGrid-Box{
+    width: 30%;
+    min-height: 70px;
+    text-align: left;
+    float: left;
+    padding: 10px;
+    background: burlywood;
+    margin : 10px 1.5% 10px 0;
+}
+
+.PanelGrid-Date{
+    border-bottom: 1px solid black;
+    margin-bottom: 20px;
+    min-height: 30px;
+}
+
+.PanelGrid-TitleName, .PanelGrid-Description{
+    margin-bottom: 20px;
+}
